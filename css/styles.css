@@ -1,0 +1,36 @@
+.btn {
+	display: block;
+	margin-top: 1em;
+}
+
+#destinations {
+	margin-top: 2em;
+}
+
+.paris {
+	margin-top: 1em;
+}
+
+.rome {
+	margin-top: 2em;
+}
+
+.mexico {
+	margin-top: 2em;
+}
+
+#destination1 {
+	margin-top: 1em;
+	display: none;
+}
+
+#destination2 {
+	margin-top: 1em;
+	display: none;
+}
+
+#destination3 {
+	margin-top: 1em;
+	margin-bottom: 2em;
+	display: none;
+}
